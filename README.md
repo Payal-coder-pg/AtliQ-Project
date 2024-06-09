@@ -1,8 +1,7 @@
 # AtliQ-Mart-
 Analysis of Sales and Promotions
-![AtliQ](https://github.com/RavinaKarnik/AtliQ-Mart-/assets/130289037/11497d55-cda1-4fe8-9d50-c8762d9d7cd6)
 
-DashBoard Link:- https://app.powerbi.com/view?r=eyJrIjoiZDM5YmVjODYtYzA2NC00ODg0LTlmMDktNzFlN2JhOTJiMjZmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection
+DashBoard Link:- 
 
 # AtliQ Mart -Analysis of Sales and Promotions 
 ## Project Objectives:
@@ -32,5 +31,4 @@ Power Bi
 Sql
 
 ## Linkedln post :- 
-https://www.linkedin.com/posts/ravina-karnik_codebasics-resumeprojectchallenge-dataanalysis-activity-7168967901914279936-PHU3?utm_source=share&utm_medium=member_desktop
 
