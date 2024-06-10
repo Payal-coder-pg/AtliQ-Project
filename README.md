@@ -13,7 +13,7 @@ DashBoard Link:-
 
 
 ## Usage
-1. Clone the repository:
+1. Clone the repository:https://github.com/Payal-coder-pg/AtliQ-Project/blob/main/dim_campaigns.csv
 2. Open the Excel files in Microsoft Excel or any compatible spreadsheet software.
 3. Navigate to the respective reports to access the analysis and insights.
 4.Customize the reports as per your requirements by modifying the data sources or adding additional calculations.
@@ -31,4 +31,5 @@ Power Bi
 Sql
 
 ## Linkedln post :- 
+PPT Link :- 
 
